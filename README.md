@@ -8,11 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=sifurrahman20&label=Profile%20Views&color=61afef&style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github.com/sifurrahman20&theme=tokyonight&no-bg=true&margin-w=4&margin-h=4" alt="কোনো কাজের না" />
-  </a>
-</p>
 
 ---
 
